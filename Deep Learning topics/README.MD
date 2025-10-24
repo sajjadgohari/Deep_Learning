@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Deep-Learning.png"  width="800"/>
+  <img src="images/Deep-Learning.png"  width="600"/>
 </p>
 
 # 🧠 Deep Learning Fundamentals: AI, Machine Learning, and Deep Learning
