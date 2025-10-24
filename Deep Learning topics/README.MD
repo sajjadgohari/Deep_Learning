@@ -21,7 +21,7 @@ After exploring the material in this repository, you should be able to clearly e
 
 ## 1. AI vs. ML vs. DL: The Core Hierarchy
 
-This section outlines the relationship between the three fields. **Deep Learning** is a subset of **Machine Learning**, which is itself a subset of **Artificial Intelligence**. ![AI-ML-DL layers](images/ai-ml-dl-layers.png)
+This section outlines the relationship between the three fields. **Deep Learning** is a subset of **Machine Learning**, which is itself a subset of **Artificial Intelligence**. <img src="images/ai-ml-dl-layers.png"  width="500"/>
 
 | Concept | Definition | Example |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ This section outlines the relationship between the three fields. **Deep Learning
 
 ## 2. Feature Engineering: Traditional ML vs. Deep Learning
 
-The primary difference lies in how features are handled: ![ML vs DL](images/ml-vs-dl.png)
+The primary difference lies in how features are handled: <img src="images/ml-vs-dl.jpg"  width="500"/>
 
 | Method | Feature Extraction | Analogy |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ The primary difference lies in how features are handled: ![ML vs DL](images/ml-v
 
 ## 3. Network Architecture: Shallow vs. Deep Neural Networks
 
-The term "Deep" refers to the number of **hidden layers** in the network: ![Neural network depth](images/shallow-vs-deep.png)
+The term "Deep" refers to the number of **hidden layers** in the network: <img src="images/shallow-vs-deep.png"  width="500"/>
 
 * **Shallow Network (ANN):** Has only **one or two** hidden layers.
 * **Deep Network (DNN):** Can contain **dozens or hundreds** of hidden layers.
@@ -55,7 +55,8 @@ The greater depth allows the model to learn **hierarchical patterns**, such as r
 
 ## 4. How Deep Networks Learn: Forward and Backward Propagation
 
-Training a deep neural network involves a continuous loop of prediction and correction: ![Forward and Backward Propagation](images/forward-backward.png)
+Training a deep neural network involves a continuous loop of prediction and correction: <img src="images/forward-backward.jpg"  width="500"/>
+
 
 ### Forward Propagation
 * **Action:** Data flows through the network from the **input layer** to the **output layer**.
@@ -69,8 +70,7 @@ Training a deep neural network involves a continuous loop of prediction and corr
 
 ## 5. Essential ML & DL Libraries in Python 🐍
 
-These are the most common Python libraries used in the ML/DL ecosystem: ![ML libraries](images/ml-libraries.png)
-
+These are the most common Python libraries used in the ML/DL ecosystem:  <img src="images/ml-libraries.jpg" width="500"/>
 | Library | Primary Function |
 | :--- | :--- |
 | **NumPy** | Fundamental for numerical computations and array handling. |
@@ -84,7 +84,7 @@ These are the most common Python libraries used in the ML/DL ecosystem: ![ML lib
 
 ## 6. TensorFlow Overview
 
-![TensorFlow logo](images/tensorflow.png)
+![TensorFlow logo](images/ts.png)
 
 **TensorFlow** is an **open-source library** developed by Google for building and training **machine learning and deep learning** models.
 
