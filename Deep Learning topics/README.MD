@@ -37,7 +37,11 @@ This section outlines the relationship between the three fields. **Deep Learning
 
 ## 2. Feature Engineering: Traditional ML vs. Deep Learning
 
-The primary difference lies in how features are handled: <img src="images/ml-vs-dl.jpg"  width="500"/>
+The primary difference lies in how features are handled: 
+
+<p align="center">
+  <img src="images/ml-vs-dl.jpg" width="600"/>
+</p>
 
 | Method | Feature Extraction | Analogy |
 | :--- | :--- | :--- |
@@ -48,7 +52,11 @@ The primary difference lies in how features are handled: <img src="images/ml-vs-
 
 ## 3. Network Architecture: Shallow vs. Deep Neural Networks
 
-The term "Deep" refers to the number of **hidden layers** in the network: <img src="images/shallow-vs-deep.png"  width="500"/>
+The term "Deep" refers to the number of **hidden layers** in the network: 
+
+<p align="center">
+  <img src="images/shallow-vs-deep.png"  width="600"/>
+</p>
 
 * **Shallow Network (ANN):** Has only **one or two** hidden layers.
 * **Deep Network (DNN):** Can contain **dozens or hundreds** of hidden layers.
@@ -59,8 +67,11 @@ The greater depth allows the model to learn **hierarchical patterns**, such as r
 
 ## 4. How Deep Networks Learn: Forward and Backward Propagation
 
-Training a deep neural network involves a continuous loop of prediction and correction: <img src="images/forward-backward.jpg"  width="500"/>
+Training a deep neural network involves a continuous loop of prediction and correction: 
 
+<p align="center">
+  <img src="images/forward-backward.jpg"  width="600"/>
+</p>
 
 ### Forward Propagation
 * **Action:** Data flows through the network from the **input layer** to the **output layer**.
@@ -74,7 +85,12 @@ Training a deep neural network involves a continuous loop of prediction and corr
 
 ## 5. Essential ML & DL Libraries in Python 🐍
 
-These are the most common Python libraries used in the ML/DL ecosystem:  <img src="images/ml-libraries.jpg" width="500"/>
+These are the most common Python libraries used in the ML/DL ecosystem: 
+
+<p align="center">
+   <img src="images/ml-libraries.jpg" width="600"/>
+</p>
+
 | Library | Primary Function |
 | :--- | :--- |
 | **NumPy** | Fundamental for numerical computations and array handling. |
