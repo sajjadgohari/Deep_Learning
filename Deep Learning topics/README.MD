@@ -21,7 +21,8 @@ After exploring the material in this repository, you should be able to clearly e
 
 ## 1. AI vs. ML vs. DL: The Core Hierarchy
 
-This section outlines the relationship between the three fields. **Deep Learning** is a subset of **Machine Learning**, which is itself a subset of **Artificial Intelligence**. <img src="images/ai-ml-dl-layers.png"  width="500"/>
+This section outlines the relationship between the three fields. **Deep Learning** is a subset of **Machine Learning**, which is itself a subset of **Artificial Intelligence**.
+<img src="images/ai-ml-dl-layers.png"  width="500"/>
 
 | Concept | Definition | Example |
 | :--- | :--- | :--- |
