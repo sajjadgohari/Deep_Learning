@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Deep-Learning.jpg"  width="800"/>
+</p>
+
 # 🧠 Deep Learning Fundamentals: AI, Machine Learning, and Deep Learning
 
 Welcome to this educational repository! Here, you'll learn the essential concepts of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
