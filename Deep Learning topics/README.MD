@@ -104,7 +104,9 @@ These are the most common Python libraries used in the ML/DL ecosystem:
 
 ## 6. TensorFlow Overview
 
-![TensorFlow logo](images/ts.png)
+<p align="center">
+   <img src="images/ts.png" width="600"/>
+</p>
 
 **TensorFlow** is an **open-source library** developed by Google for building and training **machine learning and deep learning** models.
 
